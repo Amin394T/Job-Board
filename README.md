@@ -1,0 +1,14 @@
+- fetch Jobs asynchronously
+- search by Name
+- sort by Name, Category, Date
+- drag & drop reorder
+- pagination, 10 jobs/page, customizable
+- cache filters
+- handle fetching states (error, loading, empty)
+- responsive design
+- haver states on interactive elements
+- details modal, shows basic details
+- full details page
+- implement testing
+- good code and style
+- README documentation
